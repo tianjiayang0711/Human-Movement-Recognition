@@ -1,11 +1,13 @@
 # Human-Activity-Recognition
 
 
-Motivation
+## Motivation
+
 As in the big-data era, more and more activities can be presented in the data-form. Our group thinks that it would be very interesting to identify what kind of activities that a person is doing based on the data collected by the smartphones. By accurately identifying the type of activities, people can estimate their energy consumption, and further plan their dietary intake.
 
-Dataset
-The dataset we are using is Human Activity Recognition Using Smartphones Data Set . Here is some information for this dataset in reference to the dataset website:
+# Dataset
+
+The dataset we are using is Human Activity Recognition Using Smartphones Data Set . Here is some information for this dataset in reference to the dataset website:https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
